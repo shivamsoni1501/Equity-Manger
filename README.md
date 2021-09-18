@@ -1,4 +1,4 @@
-# Equity Trainer
+# Equity Manager
 
 A Flutter based Application for trying out Equity Exchange with tocken money. This Project is to help new investers to first get an idea of how the stock market works.
 data managment and user authentication of the applicaiton is managed on firebase, so this app has real time data-management.
