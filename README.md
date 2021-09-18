@@ -4,7 +4,7 @@ A Flutter based Application for trying out Equity Exchange with tocken money. Th
 data managment and user authentication of the applicaiton is managed on firebase, so this app has real time data-management.
 
 The code of the application is currently hidden due to privacy.
-But you can use the apk file of the application and below is the discretion of the application.
+But you can use the apk file of the application and below is the description of the application.
 
 ## Getting Started
 
